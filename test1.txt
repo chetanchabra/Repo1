@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6A64-9A68
+
+ Directory of C:\Users\cheta\OneDrive\Desktop\my project
+
+10-12-2022  18:21    <DIR>          .
+10-12-2022  18:21    <DIR>          ..
+10-12-2022  18:21                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  289,496,748,032 bytes free
